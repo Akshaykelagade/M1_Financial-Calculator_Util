@@ -15,3 +15,9 @@
 | 1999 | Hall, Pamela L. (1999), Effective Use of a Financial Calculator, Cengage Learning, ISBN 9780030267864	|  |
 | 2004 | Barrell, Doris (2004), Real Estate Finance Today, Dearborn Real Estate, p. 34, ISBN 9780793181490, most real estate professionals today use a programmable financial calculator to determine loan payments and other financial calculations.|  |
 | 2009 | Barrell, Doris (2004), Real Estate Finance Today, Dearborn Real Estate, p. 34, ISBN 9780793181490, most real estate professionals today use a programmable financial calculator to determine loan payments and other financial calculations.|  |	
+
+## Defining Our System
+# Explanation:
+*This Calculator provides simple and advanced mathematical functions in a beautifully designed application. It takes user data about his/her monthly expenses and allowances and calculates Monthly deficit or surplus amount.
+
+* We can say that in future sprints new features could be added in which for the enhancement of the product.
