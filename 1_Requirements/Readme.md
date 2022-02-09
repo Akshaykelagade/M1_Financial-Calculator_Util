@@ -21,3 +21,5 @@
 *This Calculator provides simple and advanced mathematical functions in a beautifully designed application. It takes user data about his/her monthly expenses and allowances and calculates Monthly deficit or surplus amount.
 
 * We can say that in future sprints new features could be added in which for the enhancement of the product.
+
+## SWOT ANALYSIS
