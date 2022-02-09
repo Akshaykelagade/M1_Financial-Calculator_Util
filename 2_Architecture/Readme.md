@@ -7,3 +7,6 @@
 # Component Design
 
 ![ComponentDiag](https://user-images.githubusercontent.com/74095725/153245469-3c74671b-1af3-4acf-8b2b-8e515139d694.png)
+
+# Behavioural Diagrams :
+## Usecase Design :
