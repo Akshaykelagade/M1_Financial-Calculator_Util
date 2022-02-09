@@ -32,3 +32,9 @@
 
 # 4W's and 1'H
 
+# Who:
+
+* Small issues of maintaining Personal Budget and Monthly financial calculations.
+
+# What:
+
