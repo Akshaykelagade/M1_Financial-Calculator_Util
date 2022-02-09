@@ -23,3 +23,5 @@
 * We can say that in future sprints new features could be added in which for the enhancement of the product.
 
 ## SWOT ANALYSIS
+![SWOT](https://user-images.githubusercontent.com/74095725/153227708-858f9e01-5d0e-44c0-bf94-35dc4eee0c90.png)
+
