@@ -30,3 +30,5 @@
 
 ![SWOT](https://user-images.githubusercontent.com/74095725/153227708-858f9e01-5d0e-44c0-bf94-35dc4eee0c90.png)
 
+# 4W's and 1'H
+
