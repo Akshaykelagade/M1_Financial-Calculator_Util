@@ -26,15 +26,29 @@
 
 * We can say that in future sprints new features could be added in which for the enhancement of the product.
 
-## SWOT ANALYSIS
+# SWOT ANALYSIS
 
 ![SWOT](https://user-images.githubusercontent.com/74095725/153227708-858f9e01-5d0e-44c0-bf94-35dc4eee0c90.png)
 
-# 4W's and 1'H
+## 4W's and 1'H
 
-# Who:
+## Who:
 
 * Small issues of maintaining Personal Budget and Monthly financial calculations.
 
-# What:
+## What:
+
+* For many individuals maintainng financial budgest can be a tidious task. They overspent or not able to manage their expenses.
+
+## When:
+
+* This problem is with us since ages , People not with Maths or not good with their money plannings faces this issue .
+
+## Where:
+
+* This problem is expected Worldwide.
+
+## How:
+
+* If people not able to manage their expenses over their incomes , it can lead to big inbalance in their wallets.
 
