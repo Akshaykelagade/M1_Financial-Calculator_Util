@@ -12,3 +12,8 @@
 ## Usecase Design :
 
 ![Workspace](https://user-images.githubusercontent.com/74095725/153245821-68a183a3-a3ea-4e55-b6b2-5604cff7b94e.png)
+
+# Sequence Design :
+
+![SequenceDiag](https://user-images.githubusercontent.com/74095725/153249569-0b72a33f-ff43-4ca1-9aab-3b569397032f.png)
+
