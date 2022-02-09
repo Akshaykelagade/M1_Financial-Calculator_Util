@@ -62,3 +62,5 @@
 | HR02 | User shall be able to add their Monthly spends on different things |	Techincal	| Successful |
 | HR03 | User shall be able to read Output after all the calculations | Techincal	| Successful |
 | HR04 | User shall be able to save records in a file	| Techincal	| Successful |
+
+## Low level Requirements:
