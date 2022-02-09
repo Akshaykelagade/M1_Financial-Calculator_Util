@@ -52,3 +52,7 @@
 
 * If people not able to manage their expenses over their incomes , it can lead to big inbalance in their wallets.
 
+# Detail requirements
+
+## High Level Requirements:
+
