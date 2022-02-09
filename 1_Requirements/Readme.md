@@ -10,7 +10,7 @@
 * Helps people who are not good with finance management or budget making.
 
 ## Cost and Features with Time
-| Time | Feature |	Cost |
-| 1999 |	Hall, Pamela L. (1999), Effective Use of a Financial Calculator, Cengage Learning, ISBN 9780030267864	|  |
-| 2004 |	Barrell, Doris (2004), Real Estate Finance Today, Dearborn Real Estate, p. 34, ISBN 9780793181490, most real estate professionals today use a programmable financial calculator to determine loan payments and other financial calculations.|  |
-| 2009 |	Barrell, Doris (2004), Real Estate Finance Today, Dearborn Real Estate, p. 34, ISBN 9780793181490, most real estate professionals today use a programmable financial calculator to determine loan payments and other financial calculations.|  |	
+| Time | Feature | Cost |
+| 1999 | Hall, Pamela L. (1999), Effective Use of a Financial Calculator, Cengage Learning, ISBN 9780030267864	|  |
+| 2004 | Barrell, Doris (2004), Real Estate Finance Today, Dearborn Real Estate, p. 34, ISBN 9780793181490, most real estate professionals today use a programmable financial calculator to determine loan payments and other financial calculations.|  |
+| 2009 | Barrell, Doris (2004), Real Estate Finance Today, Dearborn Real Estate, p. 34, ISBN 9780793181490, most real estate professionals today use a programmable financial calculator to determine loan payments and other financial calculations.|  |	
