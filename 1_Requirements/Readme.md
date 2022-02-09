@@ -64,3 +64,8 @@
 | HR04 | User shall be able to save records in a file	| Techincal	| Successful |
 
 ## Low level Requirements:
+
+| ID | Description | Status (Implemented/Future) |
+| -- |---------- | ----- |
+| LR01 |	New record shall be added by providing all the asked information | Implemented |
+| LR07 | If program not able to take input of user , it should provide what should be the correct manner of input.|	Future |
